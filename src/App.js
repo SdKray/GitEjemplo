@@ -5,8 +5,7 @@ import './App.css';
 function App() {
 	return (
 		<div className='App'>
-			<h1>Hola a Luis</h1>
-			<a>Que es mejor que 24? 25</a>
+			<a>50</a>
 		</div>
 	);
 }
