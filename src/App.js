@@ -5,8 +5,8 @@ import './App.css';
 function App() {
 	return (
 		<div className='App'>
-			<h1>Solo hola</h1>
-			<h2>Este es un nuevo Titulo</h2>
+			<h1>10</h1>
+			<a>50</a>
 		</div>
 	);
 }
